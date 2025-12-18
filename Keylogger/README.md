@@ -14,10 +14,9 @@
 3. [Python & Malware Development](#-python--malware-development)
 4. [Keylogger Architecture](#-keylogger-architecture)
 5. [Code Walkthrough](#-code-walkthrough)
-6. [Full Source Code](#-full-source-code)
-7. [How to Prevent Keyloggers](#-how-to-prevent-keyloggers)
-8. [Conclusion](#-conclusion)
-9. [Practical Challenges](#-practical-challenges)
+6. [How to Prevent Keyloggers](#-how-to-prevent-keyloggers)
+7. [Conclusion](#-conclusion)
+8. [Practical Challenges](#-practical-challenges)
 
 ---
 
@@ -143,17 +142,6 @@ if key == keyboard.Key.esc:
 ```
 
 Pressing **ESC** safely stops the keylogger.
-
----
-
-## 📜 Full Source Code
-
-```python
-# (Full code exactly as implemented in the laboratory)
-# See project files for the complete implementation
-```
-
-> 📂 The full script is included in this repository for educational purposes only.
 
 ---
 
