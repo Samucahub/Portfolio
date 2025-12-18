@@ -1,6 +1,6 @@
 # 🛡️ Keylogger Laboratory – Cybersecurity
 
-![Cybersecurity Banner]([https://images.unsplash.com/photo-1550751827-4bd374c3f58b](https://github.com/Samucahub/Portfolio/blob/main/Keylogger/Images/keylogger.png))
+![Cybersecurity Banner](https://github.com/Samucahub/Portfolio/blob/main/Keylogger/Images/keylogger.png)
 
 > **Academic Cybersecurity Laboratory – ISTEC Porto (2024/2025)**
 > This repository documents a practical cybersecurity laboratory focused on understanding, developing, and mitigating **keyloggers** using **Python**.
