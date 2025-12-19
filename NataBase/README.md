@@ -164,19 +164,27 @@ Other patterns applied:
 
 ### Login
 
-![Login Screen](docs/images/login.png)
+![Login Screen](docs/images/login.jpg)
 
 ### Main Menu
 
-![Main Menu](docs/images/menu.png)
+![Main Menu](docs/images/mainMenu.jpg)
 
-### Production Entry
+### Production Category
 
-![Production Screen](docs/images/production.png)
+![Production Screen](docs/images/production.jpg)
 
-### Report Email
+### Product Production
 
-![Report Screen](docs/images/report.png)
+![Product Screen](docs/images/product.jpg)
+
+### Share Production
+
+![Share Screen](docs/images/share.jpg)
+
+### Settings
+
+![Report Screen](docs/images/settings.jpg)
 
 ---
 
