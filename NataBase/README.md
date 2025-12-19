@@ -226,5 +226,3 @@ It demonstrates:
 * Effective use of design patterns
 * Applied cybersecurity principles
 * Real-world applicability
-
-> ⚠️ **Disclaimer:** This project is for educational and professional purposes only.
