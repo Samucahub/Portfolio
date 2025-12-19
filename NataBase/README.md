@@ -95,7 +95,7 @@ NataBase provides a **mobile, offline-first solution** that enables:
 * **Architecture:** Modular & layered
 * **Design principles:** Clean Architecture & SOLID
 
-![UML Diagram](docs/images/uml.png)
+![UML Diagram](docs/images/UML_NataBase.png)
 
 ---
 
