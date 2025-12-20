@@ -1,6 +1,6 @@
 # 📘 NataBase — Production Management System for Professional Kitchens
 
-![NataBase Banner](docs/images/banner.png)
+![NataBase Banner](docs/images/natabase_logo.png)
 
 > **NataBase** is an Android mobile application developed in **Kotlin**, focused on **production tracking, inventory control, and automated reporting** for restaurants, cafés, bakeries, and small-to-medium professional kitchens.
 
