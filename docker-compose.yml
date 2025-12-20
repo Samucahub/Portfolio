@@ -1,0 +1,33 @@
+services:
+  next-portfolio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: next-portfolio
+    expose:
+      - "3000"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+    networks:
+      - portfolio-network
+
+  nginx:
+    image: nginx:alpine
+    container_name: nginx-proxy
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - /etc/letsencrypt:/etc/letsencrypt:ro
+      - /var/www/certbot:/var/www/certbot:ro
+    depends_on:
+      - next-portfolio
+    restart: unless-stopped
+    networks:
+      - portfolio-network
+
+networks:
+  portfolio-network:
+    driver: bridge
