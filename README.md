@@ -1,13 +1,13 @@
 # Modern & Minimalist Next.js Portfolio.
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/sanidhyy/next-portfolio)](https://github.com/sanidhyy/next-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sanidhyy/next-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/sanidhyy/next-portfolio)](https://github.com/sanidhyy/next-portfolio/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/sanidhyy/next-portfolio/main)](https://github.com/sanidhyy/next-portfolio/commits "Github commits")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Samucahub "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/Samucahub/next-portfolio)](https://github.com/Samucahub/next-portfolio/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Samucahub/next-portfolio/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/Samucahub/next-portfolio)](https://github.com/Samucahub/next-portfolio/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/Samucahub/next-portfolio/main)](https://github.com/Samucahub/next-portfolio/commits "Github commits")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c26959a9-0124-4f3c-87ac-0cd3e6de5ab4/deploy-status)](https://portfolionext-js.netlify.app/ "Netlify Status")
-[![GitHub issues](https://img.shields.io/github/issues/sanidhyy/next-portfolio)](https://github.com/sanidhyy/next-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/sanidhyy/next-portfolio)](https://github.com/sanidhyy/next-portfolio/pulls "GitHub pull requests")
+[![GitHub issues](https://img.shields.io/github/issues/Samucahub/next-portfolio)](https://github.com/Samucahub/next-portfolio/issues "GitHub issues")
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Samucahub/next-portfolio)](https://github.com/Samucahub/next-portfolio/pulls "GitHub pull requests")
 
 ## ⚠️ Before you start
 
@@ -30,8 +30,8 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/Samucahub "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/sanidhyy/next-portfolio "Tweet")
+[![GitHub followers](https://img.shields.io/github/followers/Samucahub?style=social&label=Follow&maxAge=2592000)](https://github.com/Samucahub "Follow Me")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/Samucahub/next-portfolio "Tweet")
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SamuRochê "Subscribe my Channel")
 
 ## :books: Learn More
